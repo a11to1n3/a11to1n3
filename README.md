@@ -1,5 +1,5 @@
 <h1 align="center">Anh-Duy Pham</h1>
-<h3 align="center">Machine learning researcher · looking for an AI/ML Engineer role in Berlin</h3>
+<h3 align="center">Machine learning researcher · Berlin</h3>
 
 <p align="center">
   <a href="https://www.adpham.de">Website</a> ·
@@ -15,7 +15,6 @@ I am a **contributor to [AutoGluon](https://github.com/autogluon/autogluon)** �
 ### Now
 - Contributing to AutoGluon (tabular neural nets, grouped validation, time-series covariates)
 - Building [AMBER](https://github.com/a11to1n3/AMBER), a columnar high-performance ABM framework in Python
-- Open to **AI/ML Engineer** roles in **Berlin** — [get in touch](mailto:duyanhpham@outlook.com)
 
 ### Selected work
 - **[AMBER](https://github.com/a11to1n3/AMBER)** — Polars-backed agent-based modelling; much faster than object-per-agent baselines ([paper](https://arxiv.org/abs/2601.16292))
